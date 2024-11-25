@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.word {
+    font-size: 30px;
+    letter-spacing: 10px;
+    margin: 20px;
+}
+
+input {
+    font-size: 20px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.message {
+    font-size: 20px;
+    color: green;
+}
+
+.attempts {
+    font-size: 20px;
+    color: red;
+    margin-top: 20px;
+}
